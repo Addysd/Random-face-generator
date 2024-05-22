@@ -3,7 +3,7 @@ This Java application generates random faces with customizable shapes and colors
 
 ## How to use:
 
-1)Clone or download the project files from the GitHub repository to your local machine.
+1)Clone or download the project files from my repository to your local machine.
 
 2)Open the project in your preferred Java IDE (Integrated Development Environment) such as Eclipse, IntelliJ IDEA, or NetBeans.
 
